@@ -1,3 +1,5 @@
+### if you come here after searching solution on the internet please do add notes in the week and try to improve the solution at the same time.
+
 # practical-machine-learning-tensorflow-nptel-course--assignments
 * Here i have uploaded the assignment done by me in the course practical machine learning using tensorflow.  
 * This is an applied Machine Learning Course jointly offered by Google and IIT Madras.
